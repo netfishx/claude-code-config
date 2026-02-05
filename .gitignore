@@ -1,0 +1,31 @@
+# 敏感数据 - 必须排除
+history.jsonl
+stats-cache.json
+
+# 会话和项目数据
+projects/
+transcripts/
+sessions/
+file-history/
+tasks/
+todos/
+
+# 缓存和临时文件
+cache/
+debug/
+shell-snapshots/
+session-env/
+paste-cache/
+
+# 用户标识和统计
+statsig/
+
+# IDE 和浏览器集成
+chrome/
+ide/
+
+# 插件目录（包含嵌套 git 仓库，可通过 settings.json 重新安装）
+plugins/
+
+# 学习数据可能包含项目信息
+skills/learned/
