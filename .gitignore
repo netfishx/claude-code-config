@@ -29,3 +29,6 @@ plugins/
 
 # 学习数据可能包含项目信息
 skills/learned/
+
+# 计划文件包含项目细节
+plans/

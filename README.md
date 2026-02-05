@@ -9,7 +9,6 @@
 ├── rules/           # 全局规则文件
 ├── skills/          # 技能定义
 ├── plugins/         # 插件配置
-├── plans/           # 实现计划模板
 ├── settings.json    # 权限和插件设置
 └── prompting.md     # 提示工程指南
 ```
